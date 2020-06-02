@@ -23,11 +23,15 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe preprocessing to someone new to CSS?
+Preprocessing is the process of converting a better formated version of css code into css to compile. This allows you to have variables and nested css elements. 
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+My favorite concept is nesting css elements and collapsing sections of code. The concept that gives me the biggest trouble is when to use a mixin to simplify code. 
 3. How would you explain the concept of a variable to someone new to programming?
+A variable is simply a character that represents data. For example silver could be the name of a variable that represents the data for the hex code that is silver.
 4. What is the purpose of using functions in code?
+Functions are the building blocks of programming. It consoladates a block of code that performs a certain function.
 5. What is JSON data?
-
+JSON data is used as a data interchange format. 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
